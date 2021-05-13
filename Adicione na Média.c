@@ -3,7 +3,7 @@ Autor:Breno
 Data:21/07/2020
 Programa:AdiconeNaMedia
 =====================================/*/
-#include <stdio.h>
+#include <stdio.h>/*Incluí as bibliotecas para que o código funcionasse como padrão.*/
 #include <stdlib.h>
 
 double AdicioneNaMedia(double valor){
